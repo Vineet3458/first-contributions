@@ -391,4 +391,6 @@ desktop.ini
 
 .codegpt
 .qodo
-config.bat
+.env
+.env.local
+.vscode/
